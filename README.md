@@ -31,8 +31,11 @@ It is meant as a proof of concept as how one can scrape coins and participate in
 - - As you might have guessed, this is incredibly buggy due to milliseconds of late buys messing up the prices.
 
 ### TODO
+- Thanks to [Sjoerd](https://sjoerd.tech/) for reviewing my code and helping me out here
 Heck, I don't get this, I ain't gonna be doin anythig, but if you want to develop it further then go ahead <br>
 Here's a list of stuff I thought would be good to implement
+- Better implementation of Limit buy/sell
+- Implement multiple buy/sell, if your that kind of risk taking dare devil
 - Eliminate TOS-breaking stuff by scraping from telegram instead
 - Implement base line price so bot doesn't buy too high or sell too low etc
 - Best of all, pre-pump detection! I don't have the brains for that have fun!
