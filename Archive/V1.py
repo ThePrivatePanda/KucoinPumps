@@ -8,7 +8,7 @@ import requests
 import uuid
 import json
 import time
-import config
+import single_functions.config as config
 
 bot = commands.Bot(command_prefix=".", help_command=None)
 base = "https://api.kucoin.com"

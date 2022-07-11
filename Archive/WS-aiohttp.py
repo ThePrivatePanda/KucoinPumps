@@ -1,4 +1,4 @@
-import config
+import single_functions.config as config
 import traceback
 import re
 import threading

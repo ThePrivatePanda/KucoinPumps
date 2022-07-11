@@ -9,7 +9,7 @@ import time
 import aiohttp
 from discord.ext import commands
 
-import config
+import single_functions.config as config
 master_user = 0
 master_channel = 0
 pump_signals_channels = [0, 1]
