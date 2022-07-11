@@ -1,0 +1,11 @@
+{
+    "api_key": "",
+    "api_secret": "",
+    "api_passphrase": "", 
+    "passphrase": "",
+    "token": "",
+    "investment": "0",
+    "master_channel": "0",
+    "master_user": "0",
+    "pump_signals_channels": ["0", "1"]
+}
