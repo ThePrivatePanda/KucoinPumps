@@ -19,6 +19,7 @@ It is meant as a proof of concept as how one can scrape coins and participate in
 
 ## Table of contents
 * [Features](#features)
+* [TODO](#todo)
 * [Prerequisites](#prerequisites)
 * [Setting up](#setting-up)
 * [About me](#Me)
@@ -29,6 +30,12 @@ It is meant as a proof of concept as how one can scrape coins and participate in
 - It buys instantly with set investment and sets a limit sell order at the average of expected gain range. <br>
 - - As you might have guessed, this is incredibly buggy due to milliseconds of late buys messing up the prices.
 
+### TODO
+Heck, I don't get this, I ain't gonna be doin anythig, but if you want to develop it further then go ahead <br>
+Here's a list of stuff I thought would be good to implement
+- Eliminate TOS-breaking stuff by scraping from telegram instead
+- Implement base line price so bot doesn't buy too high or sell too low etc
+- Best of all, pre-pump detection! I don't have the brains for that have fun!
 
 ### Prerequisites
 * [Python 3.8+] (did not test on other Python versions)
