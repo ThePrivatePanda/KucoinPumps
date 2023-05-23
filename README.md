@@ -9,7 +9,7 @@ My work relating to crypto and kucoin
 This repository contains an archive of pump bots as well as a newer version.
 It is meant as a proof of concept as how one can scrape coins and participate in crypto pump and dump groups through discord
 - Please note that this requires selfbotting which breaks the Discord TOS
-- Anything you do using this, I won't be damn responsible
+- You are solely responsible for anything that is caused, directly or indirectly, by using this bot.
 - If you wish to use it, I suggest you have a go through and edit it yourself as it will require a ton of testing to get going perfectly and can be improved a lot.
 
 ### Why no work
@@ -26,14 +26,13 @@ It is meant as a proof of concept as how one can scrape coins and participate in
 
 ### Features
 - This uses the discord.py-self lib to listen/wait for the coin message strictly following given regex.
-- This talkes to kucoin through raw api requests, no libs and shet.
+    - EDIT (10 months): This is slow and can be improved immensely.
+- This talkes to kucoin through api requests, no bloaty libs.
 - It buys instantly with set investment and sets a limit sell order at the average of expected gain range. <br>
-- - As you might have guessed, this is incredibly buggy due to milliseconds of late buys messing up the prices.
+    - As you might have guessed, this is incredibly buggy due to milliseconds of late buys messing up the prices.
+- Thanks to [Sjoerd](https://sjoerd.tech/) for reviewing my code and helping me out here
 
 ### TODO
-- Thanks to [Sjoerd](https://sjoerd.tech/) for reviewing my code and helping me out here
-Heck, I don't get this, I ain't gonna be doin anythig, but if you want to develop it further then go ahead <br>
-Here's a list of stuff I thought would be good to implement
 - Better implementation of Limit buy/sell
 - Implement multiple buy/sell, if your that kind of risk taking dare devil
 - Eliminate TOS-breaking stuff by scraping from telegram instead
@@ -54,9 +53,6 @@ Make sure Python is added to your PATH on Windows, more info [here](https://supe
 
 
 ## **Me**
-I am koala, nothing less, nothing more. I spend my time studying and chasing various aspects of life which catch my eye. <br>
-Currently trying to make [my site](https://thekoalaco.in) better, pls [contribute](https://github.com/koala9712/koala9712.github.io) thenk <br>
-If you liked this project or it helped you, buy me a coffee and make my day! <br>
-- BTC (BTC): 35oNx7C6YDNfgxNoXvhZwJydQ3Bpu3746c
-- LTC (LTC): MVC2viP8vZrKsgzds3juSnfySvCGi3yPMf
-- USDT (ERC20): 0x8c82b8887ef114f9b6e2841f014ed21fef705b69
+I am the private panda, nothing less, nothing more. I spend my time studying and chasing various aspects of life which catch my eye. <br>
+Currently workin on my college application heh, visit my site [here](https://privatepanda.co)
+If you liked this project or it helped you in any way, [buy me a coffee](https://privatepanda.co#patreon) and make my day!
