@@ -47,10 +47,9 @@ It is meant as a proof of concept as how one can scrape coins and participate in
 Make sure Python is added to your PATH on Windows, more info [here](https://superuser.com/questions/143119/how-do-i-add-python-to-the-windows-path) if you didn't let it set the PATH at install.
 
 ### Setting up
-- Almost all files/dirs take their own config, I'll leave it up to you to figure it out haha; I don't want to spoonfeed or else I know I'll have people blaming me for shit not working sumn idk
+- Almost all files/dirs take their own config, I'll leave it up to you to figure it out.
 - Install python library dependencies with `python -m pip install -r requirements.txt` or equivalent
-- If you really really want help setting up, feel free to contact me on [discord](https://discord.com/users/736147895039819797)
-
+- This requires at least a little programming knowledge before hand, please consider that before trying to contact me asking for help using this.
 
 ## **Me**
 I am the private panda, nothing less, nothing more. I spend my time studying and chasing various aspects of life which catch my eye. <br>
